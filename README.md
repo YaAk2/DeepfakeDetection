@@ -1,4 +1,4 @@
-# Deepfake Detection at IRT
+# Deepfake Detection
 
 This repository provides a python implementation of training [EfficientNets](https://arxiv.org/pdf/1905.11946.pdf) w/ and w/o [Attention](https://arxiv.org/pdf/1804.02391.pdf) for classifying Deepfakes.
 
